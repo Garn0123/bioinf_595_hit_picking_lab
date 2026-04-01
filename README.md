@@ -15,8 +15,9 @@ run a Boltz-2 prediction on them to see what their predicted affinities are.
 ## Things to install
 
 For this lab, you'll need to set up:
- **ChimeraX** https://www.cgl.ucsf.edu/chimerax/
- An environment for Boltz-2 https://github.com/jwohlwend/boltz
+ [**ChimeraX**](https://www.cgl.ucsf.edu/chimerax/)
+ 
+ An environment for [Boltz-2](https://github.com/jwohlwend/boltz) (though you'll just need it at the end)
 
 ## The Screen (that I ran)
 
@@ -47,7 +48,7 @@ decisions you're comfortable defending are usually the name of the game.
 
 
 ### How the molecules were docked for this lab
-For this lab, we're going to screen against 5ZV2 (https://www.rcsb.org/structure/5ZV2),
+For this lab, we're going to screen against [5ZV2](https://www.rcsb.org/structure/5ZV2),
 which is FGFR-1 in complex with ligand lenvatinib. This is a cancer target bound
 to an anti-cancer therapeutic. 
 
@@ -86,7 +87,7 @@ pairwise visualization. Just take them as a matching measure rather than an
 individual measure and we can talk more about it if you wish.
 
 For more information about the individual scoring functions than my notes above,
-please reference the DOCK6 user's manual: https://dock.compbio.ucsf.edu/DOCK_6/dock6_manual.htm
+please reference the [DOCK6 user's manual](https://dock.compbio.ucsf.edu/DOCK_6/dock6_manual.htm)
 
 
 So quick recap:
