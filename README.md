@@ -102,7 +102,9 @@ a text editor. You'll see a series of MOL2 blocks broken up by a "header" that
 describes each molecule. Each header entry is prepended by a bunch of pound signs,
 making them easy to extract via a Python script or other such tool. Everything 
 with "RD" in it is an RDKit calculated feature, and anything with "desc" in front
-of it is a scoring function related value. 
+of it is a scoring function related value. The FINAL calculated scores for each 
+scoring function is not prepended by "desc", but is just the full name of the
+scoring function outlined above.
 
 This contains all the information from the docking steps in the previous section.
 If you open this file in ChimeraX, it'll open a ViewDock window that will let
