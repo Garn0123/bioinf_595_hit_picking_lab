@@ -192,7 +192,7 @@ What might be some ways you can think of to make that kind of volume of data
 tractable to assess?
 3. Compare your own ordering of your molecules to the affinities from Boltz-2. 
 Did those two lists match orders? Give some thoughts on why or why not.
-4. You probably noticed when comparing your Boltz-2 predictions to the xtal
+4. You probably noticed differences when comparing your Boltz-2 predictions to the xtal
 pose, particularly in placement of some protein residues. DOCK6 is a rigid docking
 model - the protein doesn't move at all. Does this limitation make this a
 reasonable model for this application? Why or why not? Can you think of any other
